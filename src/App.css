@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.spacer {
+  width: 10px; /* Adjust the width as needed */
+}
+
+#learn-more-link {
+  text-align: left;
+  /* Add additional styles as needed */
+}
